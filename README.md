@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Jade, I recently graduated from UC Santa Cruz with a B.S. degree in Computer Science, looking for a job 🙏
 
+
 😄 Pronouns: she/her
+
 ✨ full stack web app development | mobile app development
+
 🔭 I’m currently working on a Sona website https://github.com/rangedminionotp/sonasite and streaming at https://www.twitch.tv/nannersowo 💬 feel free to stop by and hangout with me!
 <!--
 **rangedminionotp/rangedminionotp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
